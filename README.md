@@ -62,16 +62,5 @@ To get a local copy of the project up and running, follow these steps:
 
 For any questions or feedback, feel free to reach out to me at [ravikumarainapudi97@gmail.com](ravikumarainapudi97@gmail.com).
 
-git clone https://github.com/RaviKumar-09/Flye.Web-developer-assignment_git
-Navigate to the project directory:
 
-cd Web-developer-assignment
-Open index.html in your browser to view the project.
-
-Acknowledgements
-Unsplash for the images
-Freepik for the logos
-Fyle for providing the assignment and document
-Contact
-For any questions or feedback, feel free to reach out to me at ravikumarainapudi97@gmail.com.
 
